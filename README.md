@@ -28,7 +28,7 @@ Samples can be setup directly from the CloudWatch console:
 
 <div align="center">
 
-    ![create_a_cloudWatch_data_ource](images/configure_data_source.png)
+![create_cloudwatch_data_source](images/configure_data_source.png)
 
 </div>
 
